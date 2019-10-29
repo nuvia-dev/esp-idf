@@ -1,6 +1,7 @@
 [submodule "components/esp32/lib"]
 	path = components/esp32/lib
-	url = https://github.com/espressif/esp32-wifi-lib.git
+	url = https://github.com/nuvia-dev/esp32-wifi-lib.git
+    branch = release/v3.2
 
 [submodule "components/esptool_py/esptool"]
 	path = components/esptool_py/esptool
